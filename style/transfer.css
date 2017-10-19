@@ -1,0 +1,16 @@
+/* CSS Document */
+
+.t_left{
+width: 300px;
+float: left;
+padding: 10px 0px 0px 200px;
+line-height: 20px;
+}
+.t_right{
+width:300px;
+float:left;
+padding-top:90px;
+}
+.t_right input{
+margin:10px 0 0 80px;
+}
